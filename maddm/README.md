@@ -9,6 +9,7 @@ conda activate maddm
 ‍‍‍```
 gfortran --version
 make --version
-cmake --version ```
+cmake --version 
+```
 
 
