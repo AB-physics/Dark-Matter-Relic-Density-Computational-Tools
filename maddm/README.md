@@ -1,4 +1,4 @@
-# Installing and Running
+# Installing
 
 ```
 conda create -n maddm python=3.8
@@ -53,8 +53,7 @@ tar xf DMsimp_s_spin1_MD.tar.gz -C models
 wget https://raw.githubusercontent.com/dimauromattia/darktools/refs/heads/main/maddm/ScalarHiggsPortal_NLO_UFO.tar.gz
 tar xf ScalarHiggsPortal_NLO_UFO.tar.gz -C models
 ```
-
-
+# Running
 
 
 
