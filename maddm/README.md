@@ -37,7 +37,12 @@ cd ..
 ```
 ./bin/maddm.py
 ```
-
+```
+MadDM> install pythia8
+```
+```
+MadDM> install PPPC4DMID
+```
 
 
 
