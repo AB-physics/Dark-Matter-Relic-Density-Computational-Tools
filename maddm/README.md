@@ -54,9 +54,9 @@ wget https://raw.githubusercontent.com/dimauromattia/darktools/refs/heads/main/m
 tar xf ScalarHiggsPortal_NLO_UFO.tar.gz -C models
 ```
 # Running
-
-
-
+```
+./bin/maddm.py
+```
 
 
 
