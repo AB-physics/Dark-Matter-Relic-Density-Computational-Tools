@@ -25,3 +25,7 @@ wget https://launchpad.net/mg5amcnlo/3.0/3.6.x/+download/MG5_aMC_v2.9.24.tar.gz
 tar xzf MG5_aMC_v2.9.24.tar.gz
 cd MG5_aMC_v2_9_24
 ```
+```
+cd PLUGIN
+git clone -b rc/3.3 --depth 1 --recurse-submodules --shallow-submodules https://github.com/maddmhep/maddm.git
+```
