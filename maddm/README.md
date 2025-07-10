@@ -73,7 +73,9 @@ generate direct_detection
 ```
 generate indirect_detection
 ```
-
+```
+MadDM> launch
+```
 
 
 
