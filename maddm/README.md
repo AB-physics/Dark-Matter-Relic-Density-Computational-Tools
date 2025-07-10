@@ -64,6 +64,15 @@ MadDM> import model DMsimp_s_spin1_MD
 ```
 MadDM> import model ScalarHiggsPortal_NLO_UFO
 ```
+```
+generate relic_density
+```
+```
+generate direct_detection
+```
+```
+generate indirect_detection
+```
 
 
 
