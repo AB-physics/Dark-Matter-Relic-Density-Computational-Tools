@@ -65,6 +65,7 @@ tar xf ScalarHiggsPortal_NLO_UFO.tar.gz -C models
 ```
 تبدیل خودکار مدل‌ها (برای Python 3)
 داخل کنسول MadDM:
+
 ‍``` convert model models/DMsimp_s_spin1_MD ``` or ``` convert model /home/ahmad/Darkـmatter/MG5_aMC_v2_9_24/models/DMsimp_s_spin1_MD ``` or ``` set auto_convert_model T ```
 ```
 MadDM> import model DMsimp_s_spin1_MD
@@ -73,7 +74,7 @@ MadDM> import model DMsimp_s_spin1_MD
 MadDM> import model ScalarHiggsPortal_NLO_UFO
 ```
 بعد از import کردن هر مدل، می‌توانید دستورات محاسباتی را اجرا کنید:
-این دستورات به ترتیب چگالی بقای ماده تاریک، آشکارسازی مستقیم (بر­هم‌کنش با نوکلئون یا الکترون) و آشکارسازی غیرمستقیم را محاسبه و نتایج را تولید می‌کنند.
+این دستورات به ترتیب چگالی بقای مانده ماده تاریک، آشکارسازی مستقیم (بر­هم‌کنش با نوکلئون یا الکترون) و آشکارسازی غیرمستقیم را محاسبه و نتایج را تولید می‌کنند.
 ```
 generate relic_density
 ```
