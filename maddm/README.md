@@ -34,7 +34,7 @@ cd MG5_aMC_v2_9_24/PLUGIN
 mv maddm/maddm ../bin/maddm.py
 cd ..
 ```
-‍‍```
+```
 ./bin/maddm.py
 ```
 
