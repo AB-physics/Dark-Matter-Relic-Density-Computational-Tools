@@ -43,7 +43,14 @@ MadDM> install pythia8
 ```
 MadDM> install PPPC4DMID
 ```
-
+‍‍‍‍‍```
+wget https://raw.githubusercontent.com/dimauromattia/darktools/refs/heads/main/maddm/DMsimp_s_spin1_MD.tar.gz
+wget https://raw.githubusercontent.com/dimauromattia/darktools/refs/heads/main/maddm/ScalarHiggsPortal_NLO_UFO.tar.gz
+```
+```
+tar xf DMsimp_s_spin1_MD.tar.gz -C models
+tar xf ScalarHiggsPortal_NLO_UFO.tar.gz -C models
+```
 
 
 
