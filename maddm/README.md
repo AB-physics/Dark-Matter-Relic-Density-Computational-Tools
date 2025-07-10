@@ -65,20 +65,12 @@ tar xf ScalarHiggsPortal_NLO_UFO.tar.gz -C models
 ```
 تبدیل خودکار مدل‌ها (برای Python 3)
 داخل کنسول MadDM:
-
-‍```
-convert model models/DMsimp_s_spin1_MD
-```
+‍```convert model models/DMsimp_s_spin1_MD```
 or
 
-```
-convert model /home/ahmad/Darkـmatter/MG5_aMC_v2_9_24/models/DMsimp_s_spin1_MD
-``` 
+```convert model /home/ahmad/Darkـmatter/MG5_aMC_v2_9_24/models/DMsimp_s_spin1_MD``` 
 or
-
-```
-set auto_convert_model T
-```
+```set auto_convert_model T```
 ```
 MadDM> import model DMsimp_s_spin1_MD
 ```
