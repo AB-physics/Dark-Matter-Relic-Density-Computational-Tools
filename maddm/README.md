@@ -29,3 +29,7 @@ cd MG5_aMC_v2_9_24
 cd PLUGIN
 git clone -b rc/3.3 --depth 1 --recurse-submodules --shallow-submodules https://github.com/maddmhep/maddm.git
 ```
+```
+mv maddm/maddm ../bin/maddm.py
+cd ..
+```
