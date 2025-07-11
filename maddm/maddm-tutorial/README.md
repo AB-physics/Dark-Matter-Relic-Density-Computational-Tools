@@ -1,3 +1,5 @@
+# Running MadDM “out of the box”
+
 وارد شدن به محیط MadDM
 ```
 ./bin/maddm.py
