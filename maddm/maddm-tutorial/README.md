@@ -2,3 +2,7 @@
 ```
 ./bin/maddm.py
 ```
+شروع آموزش MadDM
+```
+tutorial
+```
