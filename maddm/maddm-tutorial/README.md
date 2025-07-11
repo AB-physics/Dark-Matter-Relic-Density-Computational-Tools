@@ -1,2 +1,4 @@
 وارد شدن به محیط MadDM
-‍‍```./bin/maddm.py```
+```
+./bin/maddm.py
+```
