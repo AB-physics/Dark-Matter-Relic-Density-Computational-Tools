@@ -54,6 +54,9 @@ MadDM> display modellist
 MadDM> import model <model_name>
 ```
 
+ ذراتی که با ماده تاریک کوآنیهیلات می‌شوند را مشخص می‌کند:
+ ‍‍```define coannihilator <particle_names>
+ ```
 
 
 
