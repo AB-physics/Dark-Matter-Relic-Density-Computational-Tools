@@ -49,6 +49,10 @@ MadDM> display diagrams
 ```
 MadDM> display modellist
 ```
+برای وارد کردن مدل دلخواه به MadDM، کافی است از دستور زیر استفاده کنید:
+```
+MadDM> import model <model_name>
+```
 
 
 
